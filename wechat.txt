@@ -1,0 +1,8 @@
+payload:
+  - 'szextshort.weixin.qq.com'
+  - 'szshort.weixin.qq.com'
+  - 'szlong.weixin.qq.com'
+  - 'extshort.weixin.qq.com'
+  - 'short.weixin.qq.com'
+  - 'long.weixin.qq.com'
+  - 'dns.weixin.qq.com'
