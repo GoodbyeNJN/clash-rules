@@ -3,6 +3,8 @@ payload:
   - PROCESS-NAME,xray
   - PROCESS-NAME,clash
   - PROCESS-NAME,clash-meta
+  - PROCESS-NAME,clash_meta
+  - PROCESS-NAME,clash.meta
   - PROCESS-NAME,naive
   - PROCESS-NAME,trojan
   - PROCESS-NAME,trojan-go
@@ -13,6 +15,8 @@ payload:
   - PROCESS-NAME,xray.exe
   - PROCESS-NAME,clash.exe
   - PROCESS-NAME,clash-meta.exe
+  - PROCESS-NAME,clash_meta.exe
+  - PROCESS-NAME,clash.meta.exe
   - PROCESS-NAME,naive.exe
   - PROCESS-NAME,trojan.exe
   - PROCESS-NAME,trojan-go.exe
