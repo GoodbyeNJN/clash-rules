@@ -1,4 +1,3 @@
 payload:
   - '+.logrocket.com'
   - '+.logrocket.io'
-  - '+.bing.com'
