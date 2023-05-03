@@ -1,3 +1,4 @@
 payload:
   - '+.logrocket.com'
   - '+.logrocket.io'
+  - '+.gstatic.com'
